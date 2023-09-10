@@ -1,0 +1,27 @@
+MetaData for Weather Dataset
+
+1. year - Year at which the data was recorded
+2. month - Month at which the data was recorded
+3. day - Day at which the data was recorded
+4. tempHigh - Maximum temperature observed during that date
+5. tempAvg - Average temperature of that date
+6. tempLow - Minimum temperature observed during that date
+7. DPHigh - Maximum Dew Point of that day
+8. DPAvg - Average Dew Point of that day
+9. DPLow - Minimum Dew Point of that day
+	Dew Point - the temperature the air needs to be cooled in order to achieve a relative humility of 100%. At this point air cannot hold more water in gas form.
+10. humidityHigh - Maximum likelihood for precipitation in that date
+11. humidityAvg - Average likelihood for precipitation in that date
+12. humidityLow - Minimum likelihood for precipitation in that date
+	humidity - Most of the time rainfall occurs when relative humidity reaches 90-100%.
+13. SLPHigh - Maximum pressure observed during that date
+14. SLPAvg - Average pressure observed during that date
+15. SLPLow - Minimum pressure observed during that date
+	Sea Level Pressure - Low pressure usually means cloudy, rainy, or windy.
+16. visibilityHigh - Maximum visibility observed during that date
+17. visibilityAvg - Average visibility observed during that date
+18. visibilityLow - Minimum visibility observed during that date
+19. windAvg - Average wind speed observed during that date
+20. Rainfall - Amount of rainfall experienced during that date
+21. AQI - Air Quality Index of that date
+	AQI - as AQI decreases, water droplets get scattered and are prevented from combining.
